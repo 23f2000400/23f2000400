@@ -7,7 +7,7 @@
       </h1>
       <h3>A Passionate Full-Stack Developer & Student @ IIT Madras 🇮🇳</h3>
       <p>
-        <a href="www.linkedin.com/in/piyushhhgupta" target="_blank">
+        <a href="https://www.linkedin.com/in/piyushhhgupta/" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
         <a href="https://parth-mishra-portfolio.vercel.app/" target="_blank">
@@ -33,7 +33,7 @@
 - 🌱 &nbsp; I’m currently learning **Advanced 3D Web Animations and System Design.**
 - 👯 &nbsp; I’m looking to collaborate on **creative web projects.**
 - 💬 &nbsp; Ask me about **Flask, Vue.js, JavaScript, Machine Learning, Data Structure and Algorithm, MongoDB, and modern web development.**
-- 📫 &nbsp; How to reach me: **Drop me a message on [LinkedIn](www.linkedin.com/in/piyushhhgupta)!**
+- 📫 &nbsp; How to reach me: **Drop me a message on [LinkedIn](https://www.linkedin.com/in/piyushhhgupta/)!**
 - 😄 &nbsp; Pronouns: **He/Him**
 - ⚡ &nbsp; Fun fact: **I love bridging the gap between clean code and beautiful, interactive design.**
 
