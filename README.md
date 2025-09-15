@@ -7,7 +7,7 @@
       </h1>
       <h3>A Passionate Full-Stack Developer & Student @ IIT Madras 🇮🇳</h3>
       <p>
-        <a href="https://linkedin.com/in/parth-mishra-iitj/" target="_blank">
+        <a href="www.linkedin.com/in/piyushhhgupta" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
         <a href="https://parth-mishra-portfolio.vercel.app/" target="_blank">
