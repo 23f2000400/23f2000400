@@ -121,7 +121,7 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="60%" valign="center">
       <a href="https://readme-jokes.vercel.app/api">
         <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" width="100%"/>
       </a>
