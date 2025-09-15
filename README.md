@@ -1,49 +1,25 @@
 <table>
   <tr>
-    <!-- Left Column -->
     <td width="60%" valign="top">
       <h1>
         Hey there, I'm Piyush Gupta
-        <img 
-          src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
-          width="30px" 
-          alt="Waving Hand"
-        />
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
       </h1>
-
       <h3>A Passionate Full-Stack Developer & Student @ IIT Madras 🇮🇳</h3>
-
       <p>
         <a href="https://www.linkedin.com/in/piyushhhgupta/" target="_blank">
-          <img 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-            alt="LinkedIn"
-          />
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
-
         <a href="https://www.facebook.com/share/1FHYFRdarP/" target="_blank">
-          <img 
-            src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" 
-            alt="Facebook"
-          />
+          <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
         </a>
-
         <a href="https://www.instagram.com/p_you_ssh?igsh=cnBwYWZleGczb3Fk" target="_blank">
-          <img 
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
-            alt="Instagram"
-          />
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
         </a>
       </p>
     </td>
-
-    <!-- Right Column -->
     <td width="40%" valign="top">
-      <img 
-        src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJ0ejV4ZXV3cGw4cTVqemF5dmtrdnQ0ZDR3cGFrc2R3enY4d2NndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" 
-        width="100%" 
-        alt="Banner"
-      />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJ0ejV4ZXV3cGw4cTVqemF5dmtrdnQ0ZDR3cGFrc2R3enY4d2NndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Banner"/>
     </td>
   </tr>
 </table>
