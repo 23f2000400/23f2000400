@@ -87,7 +87,7 @@
         <p>
           <img src="https://skillicons.dev/icons?i=flask,vuejs,mysql,css,redis" alt="Tech Stack"/>
         </p>
-        <a href="https://github.com/23f2000400/e-learning_platform" target="_blank">
+        <a href="https://github.com/23f2000400/park_ease" target="_blank">
           <img src="https://img.shields.io/badge/Code-1DA1F2?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </div>
@@ -102,10 +102,10 @@
         <p>
           <img src="https://skillicons.dev/icons?i=react,tailwind,threejs" alt="Tech Stack"/>
         </p>
-        <a href="https://github.com/23f2000400/portfolio" target="_blank">
+        <a href="https://github.com/23f2000400/LLM-agent" target="_blank">
           <img src="https://img.shields.io/badge/Code-1DA1F2?style=for-the-badge&logo=github&logoColor=white">
         </a>
-        <a href="https://parth-mishra-portfolio.vercel.app/" target="_blank">
+        <a href="https://llm-agent-eight-gamma.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live%20Demo-255E63?style=for-the-badge&logo=google-chrome&logoColor=white">
         </a>
       </div>
