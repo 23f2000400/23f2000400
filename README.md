@@ -87,7 +87,7 @@
       <h3 align="center">Park Ease</h3>
       <div align="center">
         <a href="https://github.com/23f2000400/park_ease" target="_blank">
-          <img src="[URL_TO_PROJECT_IMAGE]" alt="Park Ease Banner" width="100%">
+          <img src="car-parking.jpg" alt="Park Ease Banner" width="100%">
         </a>
         <p>Park@Ease aims to optimize parking lot operations and booking, access control (RFID/QR), payment management, and real-time slot availability monitoring.</p>
         <p>
@@ -102,7 +102,7 @@
       <h3 align="center">LLM-agent</h3>
       <div align="center">
         <a href="https://github.com/23f2000400/portfolio" target="_blank">
-          <img src="[URL_TO_PROJECT_IMAGE]" alt="LLM Agent Banner" width="100%">
+          <img src="llm-agent.png" alt="LLM Agent Banner" width="68%">
         </a>
         <p>The main goal of this project is to simplify the process of sending requests and receiving responses from different LLM APIs. Instead of writing separate code for each provider (like OpenAI, Groq, Mistral, etc.), you can use this agent as a single, flexible client.</p>
         <p>
